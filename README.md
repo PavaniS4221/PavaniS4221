@@ -1,37 +1,34 @@
-<!-- 💻 Pavani S - GitHub Profile README -->
-
-<h1 align="center">👋 Hi there, I'm <span style="color:#f06292;">Pavani S</span>!</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#f06292;">Pavani S</span></h1>
 
 <h3 align="center">
-🎓 Computer Science Engineer | 💻 MERN Developer | 🌱 Continuous Learner
+Computer Science Engineer | 💻 MERN Developer | Continuous Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+ML+Learner;Backend+Developer+%7C+MERN+Stack;Flexible+and+Communicative+Team+Player;Lifelong+Learner+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+ML+Learner;Backend+Developer+%7C+MERN+Stack;Team+Player+%7C+Communicative;Lifelong+Learner+%7C+Tech+Enthusiast" />
 </p>
 
 ---
 
-### 🌟 About Me  
+## 🌟 About Me  
 
-👩‍💻 I’m **Pavani S**, a **4th-year B.Tech Computer Science Engineering student at NMIT, Bangalore** 
-💡 I’m **organized, adaptable**, and passionate about **building scalable software** that solves real-world problems.  
-🚀 I enjoy working on **backend systems, full-stack web apps**, and exploring **machine learning**.  
-💬 Known for **strong communication**, teamwork, and a **positive learning attitude**.
-
----
-
-### 🧠 Core Strengths  
-| 💫 Strength | 🌱 Description |
-|--------------|----------------|
-| 💬 Communication | Clear, confident, and collaborative in team environments |
-| 🔄 Flexibility | Quick learner, adapts to new tools and frameworks efficiently |
-| 🧩 Problem Solving | Creative thinker with a structured debugging approach |
-| 📚 Continuous Learning | Passionate about learning emerging tech and improving daily |
+💡 Passionate about **backend systems**, **full-stack development**, and **machine learning**.  
+🚀 Organized, adaptable, and driven by curiosity to learn and build impactful projects.  
+💬 Known for **communication, collaboration, and problem-solving** abilities.  
 
 ---
 
-### 💻 Technical Skills  
+## 💎 Core Strengths  
+
+✨ **Creativity & Innovation** — I enjoy transforming ideas into meaningful digital experiences.  
+💬 **Effective Communication** — I communicate confidently and work well in collaborative environments.  
+⚡ **Adaptability** — I easily adjust to new tools, frameworks, and fast-paced challenges.  
+🧠 **Analytical Thinking** — I approach debugging and design logically and efficiently.  
+🚀 **Continuous Learning** — I’m always exploring new technologies to keep improving.
+
+---
+
+## 💻 Technical Skills  
 
 #### 💬 Languages  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -54,34 +51,33 @@
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Featured Projects  
 
-#### 🚌 **Bus Management System  — *Backend Developer*  
+### 🚌 **Bus Management System (MERN + Razorpay)** — *Backend Developer*  
 A real-time **Bus Management and Scheduling System** built for college use.  
-- 🔐 Secure login with **JWT Authentication & Role-based Access**.  
-- 💳 Integrated **Razorpay** for online payments.  
-- 🔔 Real-time notifications using **Socket.IO**.  
-- 🗺️ Live bus tracking and dynamic schedule updates.  
-- 🛠 **Stack:** Node.js, Express.js, MongoDB, CSS, HTML  
+- 🔐 Secure login with **JWT Authentication** and **Role-based Access**  
+- 💳 Integrated **Razorpay** for online payments  
+- 🔔 Live notifications using **Socket.IO**  
+- 🗺️ Real-time bus tracking and dynamic scheduling  
+🛠️ *Tech Stack:* Node.js · Express.js · MongoDB · React · CSS · HTML  
+🔗 [View Repository](https://github.com/PavaniS4221)
 
-🔗 [View Repository](https://github.com/PavaniS4221)  
-
-
-
+---
 
 
 
-### 💬 Course Expertise  
-✅ Data Structures & Algorithms  
-✅ Database Management Systems  
-✅ Operating Systems  
-✅ Computer Networks  
-✅ Software Engineering  
-✅ Machine Learning  
+
+## 🧠 Academic Interests  
+- Data Structures & Algorithms  
+- Database Management Systems  
+- Operating Systems  
+- Computer Networks  
+- Software Engineering  
+- Machine Learning  
 
 
 
-### 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PavaniS4221&show_icons=true&theme=radical" height="160px"/>
@@ -93,22 +89,22 @@ A real-time **Bus Management and Scheduling System** built for college use.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PavaniS4221&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=PavaniS4221&style=for-the-badge&color=f06292" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pavani-s-250422261/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/pavani-s-250422261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/PavaniS4221">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/PavaniS4221" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:pavani4221@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -117,5 +113,5 @@ A real-time **Bus Management and Scheduling System** built for college use.
 <h3 align="center">✨ “Learning never stops — every project is a step toward growth.” ✨</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer&text=Thank+You+for+Visiting!+Keep+Coding+🚀&fontColor=fff&fontSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer&text=Thank+You+for+Visiting!+Keep+Coding+🚀&fontColor=fff&fontSize=20" />
 </p>

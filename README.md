@@ -53,15 +53,7 @@ A real-time bus management and scheduling system for NMIT College.
 - 🗺️ Real-time bus tracking and route management.  
 - 🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, React, CSS, HTML  
 
-#### 🎮 **Tic-Tac-Toe Game (HTML, CSS, JavaScript)**  
-- ✨ Built an interactive web-based game for two users.  
-- 🎯 Implemented logic for win/tie detection and responsive UI.  
-- 🧩 Focused on clean design and smooth gameplay.  
 
-#### ☁️ **Green Compression Analyzer (Python)**  
-- 📊 Desktop app to visualize **environmental impact of compression algorithms**.  
-- 🔍 Compares CPU usage, memory, and efficiency across methods.  
-- 🌿 Promotes **eco-friendly computing practices**.  
 
 ---
 
@@ -121,5 +113,5 @@ A real-time bus management and scheduling system for NMIT College.
 <h3 align="center">🌟 “Learning never stops — every project is a step toward growth.” 🌟</h3>
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x160?text=Thank+You+for+Visiting!+Keep+Coding+🚀">
+  <img src="https://www.google.com/search?sa=X&sca_esv=0ce7f51f65b406f8&biw=1536&bih=776&sxsrf=AE3TifPsQVLZvLElh6t6hCydxDTJUvHvtw:1760627370185&q=Software&stick=H4sIAAAAAAAAAOMwVOLQz9U3MMxNM_jFyLCBheEVCxcXTCgezjGtMgRyeLi4QBzz4qTstCRkhQavWDi52EGc3OwqJAnjMjjHKLk8F26CkWlxVUkxQs6oIn4RK0dwflpJeWJR6gQ2xltskgy7F3X8ZHHdb7jR0njjJrHH29l_uf-tTZuxchGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAQeXlk9AAAAA&ved=2ahUKEwjlge2HgKmQAxXEha8BHUABMjEQ-BZ6BAgMEBQ#">
 </p>

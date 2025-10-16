@@ -1,72 +1,125 @@
-## Hi there! 👋 Welcome to My GitHub Profile  
-![Header Image](https://via.placeholder.com/800x250?text=Hello+World!+I+am+Pavani)
+<!-- Profile README for Pavani S -->
+
+<h1 align="center">👋 Hi there, I'm Pavani S!</h1>
+
+<h3 align="center">
+A Passionate Computer Science Engineering Student | Flexible Learner | Team Collaborator
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&lines=Software+Developer+%7C+ML+Learner;Backend+Developer+%7C+MERN+Stack;Continuous+Learner+%7C+Team+Player;Adapts+and+Communicates+Effectively" />
+</p>
 
 ---
 
-### 🌟 About Me
-Hi, I’m **[Your Name](https://github.com/PavaniS4221)**! A **3rd-year Computer Science Engineering student at NMIT** with a passion for technology, problem-solving, and continuous learning.
-
-- 🎯 **Currently focusing on:**
-  - **Taskmate**: A Django project for task management.
-  - **Bus Management System**: ReactJS and MERN-based project with live tracking.
-- 🌱 **Learning:** Python, Java, Machine Learning, Data Structures, Node.js, JavaScript.
-- 🌐 Exploring opportunities in **web development**, **software engineering**, and **machine learning**.
+### 🌟 About Me  
+🎓 I’m **Pavani S**, a **4th-year B.Tech Computer Science student at NMIT, Bangalore** (CGPA: 8.6).  
+💡 I’m **organized, adaptable**, and constantly improving my technical and communication skills.  
+🌱 Passionate about **backend development**, **web technologies**, and **machine learning**.  
+🤝 I value **teamwork, flexibility**, and **effective communication** for achieving success together.
 
 ---
 
-### 💼 My Toolbox
-#### Programming Languages:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Technical Skills  
+
+#### 💬 Languages  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Web Technologies:  
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+#### 🌐 Web Frameworks / Libraries  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Tools & Platforms:  
+#### 🧰 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
-#### **Taskmate** (Django Project)  
-An intuitive task management platform for better productivity.  
-📌 **Status:** In Development  
-🌟 **Features:** Task categorization, deadline reminders, and user-friendly UI.  
+### 🚀 Featured Projects  
 
-#### **Bus Management System**  
-A ReactJS-based system for managing bus routes and schedules.  
-- 🚍 **Key Features:**  
-  - Live bus location tracking.  
-  - Payment processing and notifications.  
-  - Multi-role support: Students, Teachers, Drivers, Admins.  
-- 🛠 **Tech Stack:** MERN, ReactJS, CSS, HTML5.  
+#### 🚌 **Bus Management System (MERN + Razorpay)** — *Backend Developer*  
+A real-time bus management and scheduling system for NMIT College.  
+- 🔐 JWT-based authentication and role management (Students, Admins, Drivers).  
+- 💳 Integrated **Razorpay** for online fee payments.  
+- 🔔 Live notifications and updates using **Socket.IO**.  
+- 🗺️ Real-time bus tracking and route management.  
+- 🛠️ **Tech Stack:** Node.js, Express.js, MongoDB, React, CSS, HTML  
+
+#### 🎮 **Tic-Tac-Toe Game (HTML, CSS, JavaScript)**  
+- ✨ Built an interactive web-based game for two users.  
+- 🎯 Implemented logic for win/tie detection and responsive UI.  
+- 🧩 Focused on clean design and smooth gameplay.  
+
+#### ☁️ **Green Compression Analyzer (Python)**  
+- 📊 Desktop app to visualize **environmental impact of compression algorithms**.  
+- 🔍 Compares CPU usage, memory, and efficiency across methods.  
+- 🌿 Promotes **eco-friendly computing practices**.  
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavaniS4221&show_icons=true&theme=radical)  
+### 🧠 Course Knowledge  
+- Data Structures & Algorithms  
+- Database Management Systems  
+- Operating Systems  
+- Computer Networks  
+- Software Engineering  
+- Machine Learning  
+
+---
+
+### 🏅 Certifications  
+- Database Management — *Infosys Springboard*  
+- Data Analytics — *Cisco*  
+- Operating System Basics — *Cisco*  
+
+---
+
+### 🤝 Extracurriculars  
+- 🩸 Volunteer — *Blood Donation Camp, Rashtrothana Rakthakendra*  
+- 🚶 Participant — *Walkathon for International Women’s Day* (Navachethana Hospital, Yelahanka)  
+- 🌍 Member — *National Service Scheme (NSS)*  
+
+---
+
+### 💫 My Core Strengths  
+| Strength | Description |
+|-----------|--------------|
+| 💬 Communication | Strong interpersonal and presentation skills |
+| 🔄 Flexibility | Easily adapts to new technologies and challenges |
+| 🧩 Problem-Solving | Analytical thinker who enjoys debugging and optimization |
+| 📚 Continuous Learning | Constantly exploring emerging tools and frameworks |
+
+---
+
+### 📊 GitHub Stats  
+
+![Pavani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavaniS4221&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavaniS4221&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PavaniS4221&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
+
 ---
 
-### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Pavani)  
+### 🌐 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavani-s-250422261/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PavaniS4221)  
-📧 **Email:** pavani4221@gmail.com 
+📧 **Email:** [pavani4221@gmail.com](mailto:pavani4221@gmail.com)  
 
 ---
 
-### 🎉 Fun Fact
-- 🌟 I'm a lifelong learner and tech enthusiast.  
+<h3 align="center">🌟 “Learning never stops — every project is a step toward growth.” 🌟</h3>
 
-
----
-
-![Footer Image](https://via.placeholder.com/800x150?text=Thank+You+for+Visiting!+Happy+Coding!🚀)
-
+<p align="center">
+  <img src="https://via.placeholder.com/900x160?text=Thank+You+for+Visiting!+Keep+Coding+🚀">
+</p>
